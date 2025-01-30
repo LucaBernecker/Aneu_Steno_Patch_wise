@@ -4,7 +4,7 @@ This github repository contains the technical implementation of our algorithm fo
 ## Preprocessing
 In this repository we present the deep learning core that we invented for classification and detection for intracranial stenosis and aneurysm.
 
-Before applying this algorithm we applied Skull stripping with synthstrip then moved it to MNI-space with ANTSpy (github.com/ANTsX/ANTsPy) and then applied the Fast Fuzzy c-Means Algorithm (https://github.com/YueCui-Labs/FFCM-MRF).
+Before applying this algorithm we applied Skull stripping with synthstrip then moved it to MNI-space with ANTSpy (https://github.com/ANTsX/ANTsPy) and then applied the Fast Fuzzy c-Means Algorithm (https://github.com/YueCui-Labs/FFCM-MRF).
 
 
 ## Core
