@@ -1,5 +1,6 @@
 # Patch-Wise Deep Learning Method for Intracranial Stenosis and Aneurysm Detection-the Tromsø Study
 
+This github repository contains the technical implementation of our algorithm for the paper Patch-Wise Deep Learning Method for Intracranial Stenosis and Aneurysm Detection-the Tromsø Study (https://link.springer.com/content/pdf/10.1007/s12021-024-09697-z.pdf).
 ## Preprocessing
 In this repository we present the deep learning core that we invented for classification and detection for intracranial stenosis and aneurysm.
 
